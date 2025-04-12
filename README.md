@@ -1,9 +1,12 @@
+
+//header
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hajar%20Fiqar&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00bfff&height=200&section=header&text=Hajar%20Fiqar&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
 </div>
 
+//footer
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00bfff&height=100&section=footer" width="100%" />
   
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
