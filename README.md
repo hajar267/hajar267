@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00bfff&height=200&section=header&text=Hajar%20Fiqar&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00bfff&height=200&section=header&text=%20&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
 </div>
 
 
