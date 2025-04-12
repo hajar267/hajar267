@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
-</div>
-<div]>
-  HELLO
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hajar%10Fiqar&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
