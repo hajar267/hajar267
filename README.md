@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00bfff&height=200&section=header" width="100%" />
   
-  <h2 style="background: linear-gradient(80deg, #ff69b4, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Comic Sans MS', cursive; margin-top: 20px; margin-bottom: 10px;">
+  <h2 style="color: #ff69b4; font-family: 'Comic Sans MS', cursive; margin-top: 20px; margin-bottom: 10px;">
     Welcome to my GitHub!
   </h2>
   
